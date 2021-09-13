@@ -1,0 +1,16 @@
+D:\Học C#\bin\Debug\net5.0\Học C#.exe
+D:\Học C#\bin\Debug\net5.0\Học C#.deps.json
+D:\Học C#\bin\Debug\net5.0\Học C#.runtimeconfig.json
+D:\Học C#\bin\Debug\net5.0\Học C#.runtimeconfig.dev.json
+D:\Học C#\bin\Debug\net5.0\Học C#.dll
+D:\Học C#\bin\Debug\net5.0\ref\Học C#.dll
+D:\Học C#\bin\Debug\net5.0\Học C#.pdb
+D:\Học C#\obj\Debug\net5.0\Học C#.csproj.AssemblyReference.cache
+D:\Học C#\obj\Debug\net5.0\Học C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học C#\obj\Debug\net5.0\Học C#.AssemblyInfoInputs.cache
+D:\Học C#\obj\Debug\net5.0\Học C#.AssemblyInfo.cs
+D:\Học C#\obj\Debug\net5.0\Học C#.csproj.CoreCompileInputs.cache
+D:\Học C#\obj\Debug\net5.0\Học C#.dll
+D:\Học C#\obj\Debug\net5.0\ref\Học C#.dll
+D:\Học C#\obj\Debug\net5.0\Học C#.pdb
+D:\Học C#\obj\Debug\net5.0\Học C#.genruntimeconfig.cache
